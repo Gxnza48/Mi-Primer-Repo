@@ -1,0 +1,4 @@
+# Dependencias del proyecto
+# Agregá una por línea, por ejemplo:
+# requests==2.32.3
+pytest
